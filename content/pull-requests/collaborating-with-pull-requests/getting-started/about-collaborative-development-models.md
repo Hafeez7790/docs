@@ -2,11 +2,11 @@
 title: About collaborative development models
 intro: The way you use pull requests depends on the type of development model you use in your project. You can use the fork and pull model or the shared repository model.
 redirect_from:
-  - /github/collaborating-with-issues-and-pull-requests/getting-started/about-collaborative-development-models
+  - /github/collaborating-with-issues-and-pull-requests/getting-started/about-collaborative-development-
   - /articles/types-of-collaborative-development-models
   - /articles/about-collaborative-development-models
-  - /github/collaborating-with-issues-and-pull-requests/about-collaborative-development-models
-  - /github/collaborating-with-pull-requests/getting-started/about-collaborative-development-models
+  - /github/collaborating-with-issues-and-pull-requests/about-collaborative-development
+  - /github/collaborating-with-pull-requests/getting-started/about-collaborative-development
 versions:
   fpt: '*'
   ghes: '*'
